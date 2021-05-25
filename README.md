@@ -1,7 +1,7 @@
 # Predict Churn
 
-어래 콜랩 링크를 클릭하시면 제가 작업한 코드를 보실 수 있습니다 : 
-https://colab.research.google.com/drive/1UVgmnCvTdCCGrtj7OGwkWaNW7SBFIeXI?usp=sharing
+프로젝트 노트북 파일 : 
+https://github.com/rmsgn100/Predict_Churn/blob/main/Predict_Churn.ipynb
 
 케글에서 다운받은 데이터 :
 https://www.kaggle.com/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv
